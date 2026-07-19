@@ -74,7 +74,7 @@ Mais do que aprender novas funcionalidades do Power BI, este projeto fortaleceu 
 
 ---
 Dashboard interativo no Power BI Web:
-https://lnkd.in/drnnjpAP
+[https://lnkd.in/drnnjpAP](https://app.powerbi.com/view?r=eyJrIjoiYzhlZTAwMmQtNTMyYS00YWI0LTkxMGMtNzliOGE4ZDlkY2E5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ## Dashboard  
 
